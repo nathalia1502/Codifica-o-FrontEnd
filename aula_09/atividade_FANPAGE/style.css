@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+.texto{
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sobrenome{
+    color: crimson;
+}
+
+.s1{
+   color: crimson;
+}
+
+.s2{
+    color: crimson;
+
+}
+
+.s3{
+    color: crimson;
+
+}

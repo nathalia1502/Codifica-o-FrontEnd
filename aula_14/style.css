@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+/*Estado inicial do link*/
+/* text-decoration tira o sunblinhado do link normal*/
+a{
+    color:blue;
+    text-decoration: none;
+}
+
+/*Deixa um cor no link ao ser clicado*/
+a:visited{
+    color: red;
+}
+ 
+/* Hover deixa uma cor de fundo em uma tag*/
+a:hover{
+    background-color: black;
+    color:white;
+}
+
+/*Ao segurar o clique no link fica uma cor diferente de fundo*/
+a:active{
+    background-color: green;
+} 

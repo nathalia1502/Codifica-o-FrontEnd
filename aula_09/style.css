@@ -1,0 +1,19 @@
+div{
+    background-color: aqua;
+}
+
+.um{
+    background-color: cadetblue;
+}
+
+.tres{
+    background-color: chartreuse;
+}
+
+body{
+    height: 1500px;
+    width: 2000px;
+    background-image: url(images.jfif) ;
+    background-repeat:round;
+}
+    

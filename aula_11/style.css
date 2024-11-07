@@ -1,0 +1,26 @@
+/*Elemento do Block*/
+h1{
+    background-color: brown;
+    height: 100px;
+}
+
+p{
+    background-color: burlywood;
+}
+
+/*Elemento do inline*/
+span{
+    background-color: cadetblue;
+}
+
+.span2{
+    
+    background-color: coral;
+}
+
+a{
+    display: inline-block;
+    width: 450px;
+    height: 200px;
+    background-color: darkolivegreen;
+}

@@ -1,0 +1,171 @@
+body{
+    display: flex; /*Um ao lado do outro*/
+    flex-direction: column; /*Coluna*/
+    align-items: center; /*colocar tudo abaixo no centro*/
+}
+
+*{
+    background-color: gainsboro;
+}
+
+.alagoas{
+height: 400px; /*Altura*/
+display: flex;
+
+
+}
+.alagoas-1{
+width: 200px;
+height: 400px;
+background-color: red;
+
+
+}
+
+.alagoas-2{
+width: 200px; /*Largura*/
+height: 400px; /*Altura*/
+background-color: white;
+background-image: url(brasao_de_armas_do_estado_de_alagoas.png); /*Colocar imagem na div*/
+background-size: contain; /*Tamanho da imagem*/
+background-repeat: no-repeat; /*Para não deixar a imagem repetida*/
+background-position: center; /*Colocar tudo no centro*/
+
+}
+
+.alagoas-3{
+width: 200px;
+height: 400px;
+background-color: blue;
+
+}
+
+
+.frança{
+    height: 400px; /*Altura*/
+    display: flex;
+    }
+    .frança-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+    }
+    .frança-2{
+    width: 200px; /*Largura*/
+    height: 400px; /*Altura*/
+    background-color: white;
+    background-position: center; /*Colocar tudo no centro*/
+    }
+    .frança-3{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+    }
+
+    .italia{
+    height: 400px; /*Altura*/
+    display: flex;
+    }
+    .italia-1{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+    }
+    .italia-2{
+    width: 200px; /*Largura*/
+    height: 400px; /*Altura*/
+    background-color: white;
+    background-position: center; /*Colocar tudo no centro*/
+    }
+    .italia-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+    }
+
+    .alemanha{
+    height: 600px; /*Altura*/
+    display: block;
+    }
+    .alemanha-1{
+    width: 600px;
+    height: 150px;
+    background-color: black;
+    }
+    .alemanha-2{
+    width: 600px; /*Largura*/
+    height: 150px; /*Altura*/
+    background-color: red;
+    background-position: center; /*Colocar tudo no centro*/
+    }
+    .alemanha-3{
+         width: 600px;
+         height: 150px;
+         background-color: yellow;
+    }
+
+    .argentina{
+         height: 600px; /*Altura*/
+         display: block;
+    }
+    .argentina-1{
+         width: 600px;
+         height: 150px;
+         background-color: rgb(120, 194, 255);
+    }
+    .argentina-2{
+         width: 600px; /*Largura*/
+         height: 150px; /*Altura*/
+         background-color: white;
+         background-position: center;
+         background-image: url(/sol-brasao-de-armas-da-bandeira-argentina-personagem-do-sol-argentino-ilustracao-vetor_484720-7138.avif); 
+         background-size: contain; /*Tamanho da imagem*/
+         background-repeat: no-repeat; /*Para não deixar a imagem repetida*/
+         background-position: center; /*Colocar tudo no centro*/
+    }
+    .argentina-3{
+        width: 600px;
+        height: 150px;
+        background-color: rgb(120, 194, 255);
+    }
+.nigeria{
+        height: 400px; /*Altura*/
+        display: flex;
+        }
+.nigeria-1{
+        width: 200px;
+        height: 400px;
+        background-color: rgb(43, 110, 43);
+        }
+.nigeria-2{
+        width: 200px; /*Largura*/
+        height: 400px; /*Altura*/
+        background-color: white;
+        background-position: center; /*Colocar tudo no centro*/
+        }
+.nigeria-3{
+        width: 200px;
+        height: 400px;
+        background-color: rgb(43, 110, 43);
+        }
+
+.holanda{
+    height: 600px; /*Altura*/
+    display: block;
+    }
+.holanda-1{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+    }
+.holanda-2{
+    width: 600px; /*Largura*/
+    height: 150px; /*Altura*/
+    background-color: white;
+    background-position: center; /*Colocar tudo no centro*/
+    }
+.holanda-3{
+    width: 600px;
+    height: 150px;
+    background-color: blue;
+}

@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(158, 158, 158);
+}
+
+.container, form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 30px;
+}
+
+button{
+    margin: 20px 0;
+}
